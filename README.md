@@ -27,9 +27,25 @@ XXD Panel 048 把照片中的可识别主体重构为介于工程图纸、X-ray 
 
 完整规则：[Skill 工作流](SKILL.md) · [原始提示词](references/048-source.md) · [中文生产提示词](references/xxd-panel-048-prompt.zh-CN.md) · [英文生产提示词](references/xxd-panel-048-prompt.en.md)
 
-## 样张
+## 样张 · 来自 X
 
-样张仍在制作中，当前不会借用其他 Panel 的图片或生成占位图。未来加入的样张只展示 048 的审美动机，不会成为固定主体、配色、构图、文案或画幅。[样张说明](assets/examples/README.md)
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091374796517130282) · 2026 年 8 月 23 日<br>
+> GPT2 × 蓝图 × 拆解 × 美学提示词 × VOL.048
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 048 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 048 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 048 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 048 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 048 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种可组合模式
 

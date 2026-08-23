@@ -20,9 +20,25 @@ XXD Panel 048은 알아볼 수 있는 대상을 공학 도면, X-ray 투시도, 
 
 전체 사양: [Skill](SKILL.md) · [원문](references/048-source.md) · [영문 생성 프롬프트](references/xxd-panel-048-prompt.en.md) · [중문 생성 프롬프트](references/xxd-panel-048-prompt.zh-CN.md)
 
-## 예시
+## 예시 · X에서
 
-예시는 제작 중입니다. 다른 Panel 이미지나 가짜 플레이스홀더를 빌리지 않습니다. 향후 예시도 고정 주제, 색, 구성, 문구, 화면 비율이 되지 않습니다. [정책](assets/examples/README.md)
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091374796517130282) · 2026년 8월 23일<br>
+> GPT2 × 블루프린트 × 구조 분해 × 미학 프롬프트 × VOL.048
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 048 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 048 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 048 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 048 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 048의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 조합 가능한 네 가지 모드
 
