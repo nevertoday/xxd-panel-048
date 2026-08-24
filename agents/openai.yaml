@@ -1,5 +1,5 @@
 interface:
-  display_name: "🦁 XXD Panel 048"
+  display_name: "/xxd-panel-048"
   short_description: "Create source-bound transparent blueprint artwork"
   default_prompt: "Use $xxd-panel-048 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
 policy:
