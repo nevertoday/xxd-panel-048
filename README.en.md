@@ -14,19 +14,6 @@
 
 XXD Panel 048 turns the recognisable subject into a structural blueprint between engineering drawing, X-ray transparency, scientific illustration, and a future archive. It never piles on generic machinery: objects reveal components, buildings reveal spaces, vehicles reveal propulsion, plants reveal growth, and people or animals reveal pose, motion, or clothing layers.
 
-## Aesthetic motive
-
-```text
-lock identity, contour, pose, and relation → preserve three cues → decide what “inside” means for this subject → reveal selective cuts and transparent layers → organise axes, dimensions, nodes, and leaders into one reading path → derive a lucid monochrome from the source → keep generous space → bind copy to exact structures
-```
-
-- The contour remains immediately recognisable; every internal structure needs subject-specific evidence.
-- Transparency, sections, exploded details, and magnification explain only meaningful information.
-- Use a light ground, one source-derived line colour, and limited tonal steps; blue is never an automatic default.
-- Reject ordinary tracing, anatomical gore, arbitrary machinery, dense HUDs, neon cyberpunk, and pseudo-technical text.
-
-Full specifications: [Skill](SKILL.md) · [source brief](references/048-source.md) · [English runtime adapter](references/xxd-panel-048-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-048-prompt.zh-CN.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091374796517130282) · 23 August 2026<br>
@@ -46,6 +33,19 @@ Full specifications: [Skill](SKILL.md) · [source brief](references/048-source.m
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091374796517130282">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 048 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Aesthetic motive
+
+```text
+lock identity, contour, pose, and relation → preserve three cues → decide what “inside” means for this subject → reveal selective cuts and transparent layers → organise axes, dimensions, nodes, and leaders into one reading path → derive a lucid monochrome from the source → keep generous space → bind copy to exact structures
+```
+
+- The contour remains immediately recognisable; every internal structure needs subject-specific evidence.
+- Transparency, sections, exploded details, and magnification explain only meaningful information.
+- Use a light ground, one source-derived line colour, and limited tonal steps; blue is never an automatic default.
+- Reject ordinary tracing, anatomical gore, arbitrary machinery, dense HUDs, neon cyberpunk, and pseudo-technical text.
+
+Full specifications: [Skill](SKILL.md) · [source brief](references/048-source.md) · [English runtime adapter](references/xxd-panel-048-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-048-prompt.zh-CN.md)
 
 ## The original brief is authoritative
 
