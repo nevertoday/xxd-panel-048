@@ -34,6 +34,12 @@ These samples demonstrate the 048 aesthetic motive. Their subjects, composition,
 
 XXD Panel 048 turns the recognisable subject into a structural blueprint between engineering drawing, X-ray transparency, scientific illustration, and a future archive. It never piles on generic machinery: objects reveal components, buildings reveal spaces, vehicles reveal propulsion, plants reveal growth, and people or animals reveal pose, motion, or clothing layers.
 
+## Original prompt · Five languages
+
+[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 048 right for you?
 
@@ -56,11 +62,11 @@ lock identity, contour, pose, and relation → preserve three cues → decide wh
 - Use a light ground, one source-derived line colour, and limited tonal steps; blue is never an automatic default.
 - Reject ordinary tracing, anatomical gore, arbitrary machinery, dense HUDs, neon cyberpunk, and pseudo-technical text.
 
-Full specifications: [Skill](SKILL.md) · [source brief](references/048-source.md) · [English runtime adapter](references/xxd-panel-048-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-048-prompt.zh-CN.md)
+Full specifications: [Skill](SKILL.md) · [source brief](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-048-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-048-prompt.zh-CN.md)
 
 ## The original brief is authoritative
 
-`references/048-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
