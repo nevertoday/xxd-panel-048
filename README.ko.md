@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 048
+# 🦁 XXD Panel 048｜투명 구조 저널
 
 ### 대상의 구조 논리를 투명한 설계도 안에서 선명하게 드러내기
 

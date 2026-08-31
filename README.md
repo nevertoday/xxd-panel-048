@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 048
+# 🦁 XXD Panel 048｜透明结构志
 
 ### 让主体的结构逻辑，在透明蓝图中清晰显影
 

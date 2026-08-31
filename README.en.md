@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 048
+# 🦁 XXD Panel 048｜Transparent Structure Journal
 
 ### Reveal the subject's structural logic through a transparent blueprint
 
