@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 048｜Transparent Structure Journal: keeps the photo subject's recognisable outline but turns parts of its surface semi-transparent, cut away or layered to reveal its inner logic — components and joints for objects, space and construction for buildings, drive and frame for vehicles, veins and growth for plants, pose skeletons and motion paths for people and animals (never anatomy) — as a clear single-colour blueprint on a light background, with fine axis lines, dimension lines, numbered nodes, call-outs, close-up boxes and wide whitespace. The line colour comes from the photo and is not always blue. A short title with part names and tiny notes, no years. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-048 or asks for a transparent blueprint, X-ray cutaway or scientific diagram look from a photo.",
+  "short_description": "透明结构志：让照片主体半透明显出内部结构，画成单色清透的蓝图式技术图解",
+  "zh-CN": {
+    "name": "透明结构志",
+    "tagline": "让照片主体变得半透明，把它的结构逻辑画成一张清透的蓝图。",
+    "look": "主体的外轮廓保持一眼可辨，部分表层变成半透明、剖切或分层，露出最有代表性的内部：器物看组件和连接，建筑看空间和构造，交通工具看动力和骨架，植物看枝脉，人和动物只画姿态骨架和动作轨迹，不画血肉。画面是浅色底上的单色线稿，一个主线色从照片里取，不一定是蓝色，用线宽、透明度和虚实分层次。周围有极细的轴线、尺寸线、节点编号、局部放大框和引线，留白充足；文字是一个简短标题加部件名称和小注释，不写年份。",
+    "traits": ["透明结构", "科学图解", "清透单色", "精确注释", "蓝图"],
+    "good": [
+      "有内部结构可讲的物件：一台相机、一辆自行车、一只机械表、一把吉他",
+      "结构清楚的建筑和交通工具：一座桥、一座灯塔、一辆老式汽车",
+      "想做成科普图、产品介绍海报或技术感封面的照片"
+    ],
+    "poor": [
+      "没有明确结构、以氛围为主的照片：雾景、夕阳、模糊的夜景",
+      "人很多的场景，或期待看到人体解剖的需求，人物只画姿态骨架",
+      "想要多彩配色、赛博霓虹 HUD 或满屏科技界面的效果"
+    ]
+  },
+  "en": {
+    "name": "Transparent Structure Journal",
+    "tagline": "Makes the subject of your photo semi-transparent and draws its structural logic as a clear blueprint.",
+    "look": "The subject's outline stays instantly recognisable while parts of its surface become see-through, cut away or layered to show its most telling insides: components and joints for objects, space and construction for buildings, drive and frame for vehicles, veins for plants, and for people and animals only a pose skeleton and motion lines, never anatomy. It is a single-colour line drawing on a light background, the line colour taken from the photo and not necessarily blue, with layers told apart by line weight, transparency and dashed or solid strokes. Fine axis and dimension lines, numbered nodes, close-up boxes and leader lines sit around it with plenty of space; the text is a short title with part names and tiny notes, never a year.",
+    "traits": ["Transparent structure", "Scientific diagram", "Clear single colour", "Precise labels", "Blueprint"],
+    "good": [
+      "Objects with an inner structure worth showing: a camera, a bicycle, a mechanical watch, a guitar",
+      "Buildings and vehicles with clear construction: a bridge, a lighthouse, a vintage car",
+      "Photos for a science explainer, a product poster or a technical-looking cover"
+    ],
+    "poor": [
+      "Atmosphere-led photos without clear structure: fog, sunsets, blurry night scenes",
+      "Crowded scenes, or requests to see human anatomy, since people are drawn only as pose skeletons",
+      "Requests for multicolour palettes, cyber-neon HUDs or screens full of tech interface"
+    ]
+  },
+  "ja": {
+    "name": "透明構造の手帳",
+    "tagline": "写真の主役を半透明にして、その構造の論理を澄んだ設計図として描きます。",
+    "look": "主役の輪郭は一目でわかるまま、表面の一部が半透明になったり、切断されたり、層に分かれたりして、いちばん特徴的な内部が見えます。道具なら部品と接合、建物なら空間と構法、乗り物なら動力と骨組み、植物なら葉脈と枝、人や動物は姿勢の骨格と動きの軌跡だけで、生身の解剖は描きません。淡い地に一色の線画で、線の色は写真から取り、青とは限りません。線の太さ、透明度、実線と破線で層を分けます。まわりには極細の軸線、寸法線、節点の番号、部分拡大の枠、引き出し線があり、余白は十分にとります。文字は短いタイトルに部品名と小さな注記で、年号は入れません。",
+    "traits": ["透明な構造", "科学図解", "澄んだ単色", "精密な注記", "設計図"],
+    "good": [
+      "内部構造に見どころのある物：カメラ、自転車、機械式時計、ギター",
+      "構造のはっきりした建物や乗り物：橋、灯台、クラシックカー",
+      "科学の解説図、製品紹介ポスター、技術系の表紙にしたい写真"
+    ],
+    "poor": [
+      "はっきりした構造がなく雰囲気が中心の写真：霧の景色、夕日、ぼやけた夜景",
+      "人の多い場面や、人体の解剖を見たい場合（人物は姿勢の骨格だけで描きます）",
+      "多色の配色、サイバーなネオン HUD、画面いっぱいのテック UI を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "투명 구조 저널",
+    "tagline": "사진의 주인공을 반투명하게 만들고, 그 구조의 논리를 맑은 설계도로 그립니다.",
+    "look": "주인공의 윤곽은 한눈에 알아볼 수 있게 두고, 표면 일부를 반투명하게 하거나 잘라 내거나 층으로 나눠 가장 특징적인 내부를 드러냅니다. 사물은 부품과 연결, 건물은 공간과 구조, 탈것은 동력과 뼈대, 식물은 잎맥과 가지를 보여 주고, 사람과 동물은 자세의 골격과 움직임의 궤적만 그리며 해부는 하지 않습니다. 연한 바탕 위의 단색 선화이고, 선 색은 사진에서 가져오며 꼭 파란색은 아닙니다. 선 굵기, 투명도, 실선과 점선으로 층을 구분합니다. 주변에는 아주 가는 축선, 치수선, 절점 번호, 부분 확대 상자, 지시선이 놓이고 여백은 넉넉합니다. 글자는 짧은 제목에 부품 이름과 작은 메모를 곁들이며, 연도는 쓰지 않습니다.",
+    "traits": ["투명 구조", "과학 도해", "맑은 단색", "정밀한 주석", "설계도"],
+    "good": [
+      "보여 줄 내부 구조가 있는 사물: 카메라, 자전거, 기계식 시계, 기타",
+      "구조가 분명한 건물과 탈것: 다리, 등대, 클래식 자동차",
+      "과학 설명 그림, 제품 소개 포스터, 기술 느낌의 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "뚜렷한 구조 없이 분위기가 중심인 사진: 안개 풍경, 노을, 흐릿한 야경",
+      "사람이 많은 장면이나 인체 해부를 보고 싶은 경우(사람은 자세의 골격으로만 그립니다)",
+      "여러 색 배색, 사이버 네온 HUD, 화면 가득한 기술 UI를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر البنية الشفافة",
+    "tagline": "يجعل موضوع صورتك شبه شفاف ويرسم منطق بنيته في مخطط صافٍ.",
+    "look": "يبقى الخط الخارجي للموضوع معروفاً من النظرة الأولى، بينما تصبح أجزاء من سطحه شفافة أو مقطوعة أو مفصولة طبقات لتكشف أهم ما في داخله: المكوّنات والوصلات في الأشياء، والفراغ والإنشاء في المباني، والمحرّك والهيكل في المركبات، والعروق في النباتات، أما البشر والحيوانات فلا يظهر منهم إلا هيكل الوضعية وخطوط الحركة، دون تشريح. إنه رسم خطي بلون واحد على خلفية فاتحة، لون خطوطه مأخوذ من الصورة وليس أزرق بالضرورة، وتتمايز طبقاته بسماكة الخط والشفافية والخطوط المتصلة والمتقطعة. حوله خطوط محاور وأبعاد دقيقة جداً، وعُقد مرقّمة، ومربعات تكبير، وخطوط إشارة، مع فراغ واسع. النص عنوان قصير مع أسماء الأجزاء وملاحظات صغيرة، دون ذكر سنة.",
+    "traits": ["بنية شفافة", "رسم علمي", "لون واحد صافٍ", "تعليقات دقيقة", "مخطط"],
+    "good": [
+      "أشياء لها بنية داخلية تستحق العرض: كاميرا، دراجة، ساعة ميكانيكية، غيتار",
+      "مبانٍ ومركبات واضحة الإنشاء: جسر، منارة، سيارة كلاسيكية",
+      "صور لرسم علمي توضيحي أو ملصق تعريف بمنتج أو غلاف بطابع تقني"
+    ],
+    "poor": [
+      "صور يغلب عليها الجو بلا بنية واضحة: ضباب، غروب، مشاهد ليلية ضبابية",
+      "مشاهد مزدحمة، أو طلب رؤية تشريح جسم الإنسان، لأن البشر يُرسمون بهيكل الوضعية فقط",
+      "طلب ألوان متعددة أو واجهات نيون سيبرانية أو شاشات مليئة بعناصر تقنية"
+    ]
+  }
+}
